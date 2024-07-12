@@ -16,6 +16,7 @@ public class MessagingApiAppApplication {
 		
 		System.out.println("Hi Oracle.");
 		System.out.println("Hi Oracle.");
+		System.out.println("Hi Oracle.");
 	}
 
 }
